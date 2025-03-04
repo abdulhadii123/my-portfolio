@@ -1,0 +1,245 @@
+{
+  "hero": {
+    "imgUrl": "/images/me.png",
+    "name": "Abdul Hadi Mp",
+    "heading": "Hay! I’m Hadi ",
+    "typingText": [
+      "I'm a Frontend Developer",
+      1500,
+      "I'm a Web Developer",
+      1500
+    ],
+    "description": "Yet bed any for travelling assistance indulgence unpleasing. Not thoughts all exercise blessing. Indulgence way everything joy alteration boisterous the attachment.",
+    "btnText": "Get in touch",
+    "btnUrl": "contactus"
+  },
+  "socialBtns": [
+    {
+      "icon": "fa-brands:github",
+      "iconBgClass": "github",
+      "href": "https://github.com/abdulhadii123?tab=repositories"
+    },
+    { "icon": "fa-brands:instagram", "iconBgClass": "instagram", "href": "/" },
+    {
+      "icon": "fa-brands:linkedin-in",
+      "iconBgClass": "linkedin",
+      "href": "https://www.linkedin.com/in/abdul-hadi-mp/"
+    }
+  ],
+  "brands": [],
+  "about": {
+    "imgSrc": "/images/aboutme.jpg",
+    "miniTitle": "About Us",
+    "title": "I AM AVAILABLE FOR <span>FRONTEND</span> PROJECTS",
+    "description": "Motivated and detail-oriented fresher web developer with a strong foundation in front-end technologies, including React.js . Passionate about creating responsive and user-friendly web applications. Eager to apply my skills, learn new technologies, and contribute to a dynamic development team. Seeking an opportunity to grow as a web developer and build innovative digital solutions",
+    "funfacts": [
+      {
+        "title": "Projects",
+        "number": 10
+      },
+      {
+        "title": "Months Experience",
+        "number": 6
+      }
+    ],
+    "btnText": "Get in touch",
+    "btnUrl": "contactus"
+  },
+  "projects": {
+    "sectionHeading": {
+      "miniTitle": "My Work",
+      "title": "RECENT PROJECT"
+    },
+    "allProjects": [
+      {
+        "thumbUrl": "/images/website1.png",
+        "title": "My Portfolio",
+        "subTitle": "Web Design, App Design",
+        "details": {
+          "title": "Website Design for Portfolio Design",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. <br><br>xcepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          "type": "Website",
+          "languages": "React, HTML, CSS, JS",
+          "platform": "VSCode",
+          "country": "India",
+          "url": "https://portfolio-five-phi-69.vercel.app/"
+        }
+      },
+      {
+        "thumbUrl": "/images/website5.png",
+        "title": "Wobix-React",
+        "subTitle": "Web Design, App Design",
+        "details": {
+          "title": "Website Design for Marketing Agency Startup",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. <br><br>xcepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          "type": "Website",
+          "languages": "React, HTML,Tailwind, JS",
+          "platform": "VSCode",
+          "country": "India",
+          "url": "https://wobix-react.vercel.app/"
+        }
+      },
+      {
+        "thumbUrl": "/images/website2.png",
+        "title": "Wobix",
+        "subTitle": "Web Design, App Design",
+        "details": {
+          "title": "Website Design for Marketing Agency Startup",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. <br><br>xcepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          "type": "Website",
+          "languages": " HTML, CSS, JS",
+          "platform": "VSCode",
+          "country": "India",
+          "url": "https://wobix.vercel.app/"
+        }
+      },
+      {
+        "thumbUrl": "/images/website3.png",
+        "title": "Fimkin",
+        "subTitle": "Web Design, App Design",
+        "details": {
+          "title": "Website Design for Marketing Agency Startup",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. <br><br>xcepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          "type": "Website",
+          "languages": " HTML, CSS, JS",
+          "platform": "VSCode",
+          "country": "India",
+          "url": "https://fimkin-phi.vercel.app/"
+        }
+      },
+      {
+        "thumbUrl": "/images/website4.png",
+        "title": "ilaspices",
+        "subTitle": "Web Design, App Design",
+        "details": {
+          "title": "Website Design for Marketing Agency Startup",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. <br><br>xcepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          "type": "Website",
+          "languages": " HTML, CSS",
+          "platform": "VSCode",
+          "country": "India",
+          "url": "https://ila-spices.vercel.app/"
+        }
+      },
+      {
+        "thumbUrl": "/images/website6.png",
+        "title": "Soller",
+        "subTitle": "Web Design, App Design",
+        "details": {
+          "title": "Website Design for Marketing Agency Startup",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. <br><br>xcepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          "type": "Website",
+          "languages": " HTML, CSS, JS",
+          "platform": "VSCode",
+          "country": "India",
+          "url": "https://soller-eight.vercel.app/"
+        }
+      }
+    ]
+  },
+  "service": {
+    "sectionHeading": {
+      "miniTitle": "SERVICES",
+      "title": "<span>services</span> I am providing"
+    },
+    "allService": [
+      {
+        "imgUrl": "/images/website-design.jpg",
+        "title": "Website Design",
+        "subTitle": "Website design is the process of creating, planning, and building websites. It involves layout, colors, typography, images, user experience (UX), and functionality to make a site visually appealing and user-friendly.It also includes responsiveness, ensuring the website looks great on all devices, from desktops to smartphones.",
+        "icon": "bi:globe",
+        "ratings": 5
+      },
+      {
+        "imgUrl": "/images/frontend.jpg",
+        "title": "Frontend Development",
+        "subTitle": "Frontend development is the process of building the user interface (UI) and user experience (UX) of a website or web application. It involves designing and coding everything that users see and interact with directly in a browser.Tailwind css is the framework for styling and React.js is the js library for building user interface",
+        "icon": "bi:laptop",
+        "ratings": 5
+      },
+      {
+        "imgUrl": "/images/mobile.jpg",
+        "title": "Mobile videography",
+        "subTitle": "capturing high-quality videos using a smartphone. With advance in smartphone cameras, you can now create professional-looking videos without expensive gear. Whether you're a content creator,vlogger  or just someone who loves shooting videos, mobile videography offers a powerful and accessible way to tell stories.",
+        "icon": "bi:phone",
+        "ratings": 4
+      },
+      {
+        "imgUrl": "/images/capcut.jpg",
+        "title": "Capcut",
+        "subTitle": "CapCut is a powerful, free, and user-friendly video editing app designed for mobile content creators. Developed by Bytedance (the creators of TikTok), CapCut offers professional editing tools, special effects, and AI-powered features—perfect for making high-quality videos for social media, vlogs, or even professional projects.",
+        "icon": "bi:palette",
+        "ratings": 4.5
+      }
+    ]
+  },
+  "experience": {
+    "sectionHeading": {
+      "miniTitle": "Experience",
+      "title": "My Work <span>Experience</span>"
+    },
+    "allExperience": [
+      {
+        "designation": "Front-end Developer",
+        "company": "Woodenclouds",
+        "duration": "JAN 2025 - PRESENT",
+        "jobType": "Full time",
+        "companyTitle": "About Company",
+        "companyDescription": " A company providing training and services insoftware development.• Gained hands-on experience in Frontend Development, working with HTML, CSS, JavScript, React.js, and Tailwind CSS, Node.js to build responsive and interactive web applications. • Developed projects using GitHub for version control, ensuring efficient collaboration and code management. • Gained practical exposure to UI/UX designprinciples, working within design frameworks to create user-friendly interfaces.• Worked in WCFrames for Editing and videography, incorporating multimedia elements to enhance web content and digital experiences. ."
+      }
+    ]
+  },
+  "education":{
+        "sectionHeading": {
+      "miniTitle": "Education",
+      "title": "My <span>Education</span>"
+    },
+    "allExperience": [
+      {
+        "designation": "BCA",
+        "company": "WIRAS",
+        "duration": "2020-2023",
+        "jobType": "Full time",
+        "companyTitle": "About College",
+        "companyDescription": " A company providing training and services insoftware development.• Gained hands-on experience in Frontend Development, working with HTML, CSS, JavScript, React.js, and Tailwind CSS, Node.js to build responsive and interactive web applications. • Developed projects using GitHub for version control, ensuring efficient collaboration and code management. • Gained practical exposure to UI/UX designprinciples, working within design frameworks to create user-friendly interfaces.• Worked in WCFrames for Editing and videography, incorporating multimedia elements to enhance web content and digital experiences. ."
+      }
+    ]
+  },
+  "testimonial": {
+    "sectionHeading": {
+      "miniTitle": "Testimonial",
+      "title": "Over <span>8,000+</span> <br /> PEOPLE TRUST ME"
+    },
+    "allTestimonial": [
+      {
+        "reviewText": "Donec tellus sem, tempor ac purus a, porttitor lobortis purus. Etiam quis nisl eget ex pulvinar consectetur. Suspendisse potenti. Cras non elementum risus. Fusce massa tellus, consequat a rutrum et, aliquam a lacus. Quisque viverra egestas tincidunt. Nunc nec nisi sed enim consectetur ullamcorper. Vestibulum at neque tortor. Pellentesque urna enim, ultricies at tortor eu, elementum egestas leo. In hac habitasse platea dictumst.",
+        "avatarImg": "/images/avatar-1.jpg",
+        "avatarName": "Pamela Anders",
+        "avatarCompany": "Company Name"
+      },
+      {
+        "reviewText": "Donec tellus sem, tempor ac purus a, porttitor lobortis purus. Etiam quis nisl eget ex pulvinar consectetur. Suspendisse potenti. Cras non elementum risus. Fusce massa tellus, consequat a rutrum et, aliquam a lacus. Quisque viverra egestas tincidunt. Nunc nec nisi sed enim consectetur ullamcorper. Vestibulum at neque tortor. Pellentesque urna enim, ultricies at tortor eu, elementum egestas leo. In hac habitasse platea dictumst.",
+        "avatarImg": "/images/avatar-2.jpg",
+        "avatarName": "Pamela Anders",
+        "avatarCompany": "Company Name"
+      },
+      {
+        "reviewText": "Donec tellus sem, tempor ac purus a, porttitor lobortis purus. Etiam quis nisl eget ex pulvinar consectetur. Suspendisse potenti. Cras non elementum risus. Fusce massa tellus, consequat a rutrum et, aliquam a lacus. Quisque viverra egestas tincidunt. Nunc nec nisi sed enim consectetur ullamcorper. Vestibulum at neque tortor. Pellentesque urna enim, ultricies at tortor eu, elementum egestas leo. In hac habitasse platea dictumst.",
+        "avatarImg": "/images/avatar-3.jpg",
+        "avatarName": "Pamela Anders",
+        "avatarCompany": "Company Name"
+      }
+    ]
+  },
+  "contact": {
+    "sectionHeading": {
+      "title": "Let’s Discuss Your Project",
+      "subTitle": "Always available for freelancing if the right project comes along, Feel free to contact me."
+    },
+    "contactImg": "/images/me03.png",
+    "contactInfo": [
+      { "title": "e-mail", "email": "hadimph3@gmail.com" },
+      { "title": "mobile", "tel": "+919778062727" }
+    ]
+  }
+}
