@@ -44,7 +44,7 @@ export default function Modal({ modalData }) {
                 {url && (
                   <li className="d-flex">
                     <span className="col-4 col-lg-3">Live URL:</span>
-                    <span><a href="">{url}</a></span>
+                    <span>{url}</span>
                   </li>
                 )}
               </ul>
