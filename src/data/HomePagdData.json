@@ -6,10 +6,10 @@
     "typingText": [
       "I'm a Frontend Developer",
       1500,
-      "I'm a Web Developer",
+      "I'm a Freelancer",
       1500
     ],
-    "description": "Yet bed any for travelling assistance indulgence unpleasing. Not thoughts all exercise blessing. Indulgence way everything joy alteration boisterous the attachment.",
+    "description": "Motivated and detail-oriented Web Developer with 6 months of experience.",
     "btnText": "Get in touch",
     "btnUrl": "contactus"
   },
@@ -19,7 +19,7 @@
       "iconBgClass": "github",
       "href": "https://github.com/abdulhadii123?tab=repositories"
     },
-    { "icon": "fa-brands:instagram", "iconBgClass": "instagram", "href": "/" },
+    { "icon": "fa-brands:instagram", "iconBgClass": "instagram", "href": "https://www.instagram.com/abdul__hadi___?igsh=MTZ6anN6MGRwZm4wOQ==" },
     {
       "icon": "fa-brands:linkedin-in",
       "iconBgClass": "linkedin",

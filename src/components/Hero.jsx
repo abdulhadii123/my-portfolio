@@ -31,7 +31,7 @@ export default function Hero({ data, socialData }) {
               >
                 <TypeAnimation
                   sequence={typingText}
-                  speed={0}
+                  speed={1}
                   repeat={Infinity}
                 />
               </h2>
