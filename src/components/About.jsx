@@ -35,7 +35,7 @@ export default function About({ data }) {
             data-aos-delay="500"
           >
             <div className="about-banner text-center">
-              <img src={imgSrc} alt="Thumb" />
+              <img className=' rounded-5' src={imgSrc} alt="Thumb" />
             </div>
           </div>
           <div className="col-lg-6 col-xl-5 px-lg-5">
