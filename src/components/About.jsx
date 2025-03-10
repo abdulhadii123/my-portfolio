@@ -27,7 +27,7 @@ export default function About({ data }) {
             data-aos-delay="400"
           />
         </div>
-        <div className="row align-items-center justify-content-center gy-5">
+        <div className="row align-items-center justify-content-around gy-5">
           <div
             className="col-lg-6 col-xl-5"
             data-aos="fade-right"

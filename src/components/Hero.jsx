@@ -10,6 +10,7 @@ export default function Hero({ data, socialData }) {
   return (
     <section className="home-section" id="home" data-scroll-index={0}>
       <div className="container">
+      
         <div className="row align-items-center">
           <div className="col-lg-6">
             <div className="hs-text-box">
