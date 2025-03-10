@@ -52,12 +52,26 @@
     },
     "allProjects": [
       {
+        "thumbUrl": "/images/website7.png",
+        "title": "hostel mates",
+        "subTitle": "Web Design, App Design",
+        "details": {
+          "title": "Website Design for Marketing Agency Startup",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. <br><br>xcepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          "type": "Website",
+          "languages": " HTML, CSS,js",
+          "platform": "VSCode",
+          "country": "India",
+          "url": "https://hostelmates.vercel.app/"
+        }
+      },
+      {
         "thumbUrl": "/images/website1.png",
         "title": "My Portfolio",
         "subTitle": "Web Design, App Design",
         "details": {
           "title": "Website Design for Portfolio Design",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. <br><br>xcepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          "description": "I am a passionate Frontend Developer with expertise in HTML, CSS, JavaScript, React, and Tailwind CSS. I specialize in building responsive, user-friendly web applications with clean and maintainable code. With a strong foundation in modern UI/UX principles, I create visually appealing and high-performing web experiences. I also have experience using GitHub for version control and collaboration.        Always eager to learn and explore new technologies to enhance my development skills.",
           "type": "Website",
           "languages": "React, HTML, CSS, JS",
           "platform": "VSCode",
@@ -135,6 +149,7 @@
           "url": "https://soller-eight.vercel.app/"
         }
       }
+    
     ]
   },
   "service": {
