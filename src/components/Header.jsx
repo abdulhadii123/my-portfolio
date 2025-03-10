@@ -71,9 +71,9 @@ export default function Header() {
           <a
             href="/Abdul-Hadi-Mp-.pdf"
             download="Abdul_Hadi_CV.pdf"
-            className="px-btn d-flex align-items-center justify-content-center ms-3 d-lg-inline-flex d-block w-100 text-center"
+            className="px-btn d-flex align-items-center justify-content-center ms-3 d-lg-inline-flex d-block text-center"
           >
-            <FaDownload />
+            CV <FaDownload />
           </a>
 
           {/* Mobile Menu Toggle */}
