@@ -69,7 +69,7 @@ export default function Header() {
 
           {/* CV Download Button */}
           <a
-            href="/Abdul-Hadi-Mp-.pdf"
+            href="/ABDUL HADI MP.pdf"
             download="Abdul_Hadi_CV.pdf"
             className="px-btn d-flex align-items-center justify-content-center ms-3 d-lg-inline-flex d-block text-center"
           >
