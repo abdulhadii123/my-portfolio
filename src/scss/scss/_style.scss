@@ -492,6 +492,39 @@ a {
       font-weight: 600;
     }
   }
+  .ex-leftside {
+    padding: 20px;
+    border-radius: 8px;
+    background: cadetblue;
+    h4 {
+      margin: 0 0 8px;
+      font-weight: 700;
+    }
+    span {
+      font-weight: 400;
+      font-size: 14px;
+      text-transform: uppercase;
+      color: var(--px-white);
+      opacity: 0.8;
+    }
+    p {
+      font-weight: 400;
+      font-size: 16px;
+      color: var(--px-white);
+      text-transform: uppercase;
+      margin: 0 0 15px;
+    }
+    label {
+      padding: 8px 16px;
+      border-radius: 30px;
+      background: var(--px-white);
+      color: var(--px-black);
+      font-size: 12px;
+      text-transform: uppercase;
+      line-height: 1;
+      font-weight: 600;
+    }
+  }
   .ex-right {
     h5 {
       font-weight: 700;

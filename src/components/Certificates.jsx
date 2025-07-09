@@ -26,7 +26,7 @@ export default function Certificates({ data }) {
               <div className="ex-box">
                 <div className="row gy-4">
                   <div className="col-md-4 col-lg-3">
-                    <div className="ex-left">
+                    <div className="ex-leftside">
                       <h4>{item.title}</h4>
                       <span>{item.issuer}</span>
                       <p>{item.duration}</p>
