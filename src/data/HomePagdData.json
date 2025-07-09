@@ -3,12 +3,7 @@
     "imgUrl": "/images/me.png",
     "name": "Abdul Hadi Mp",
     "heading": "Hay! I’m Hadi ",
-    "typingText": [
-      "I'm a Frontend Developer",
-      1500,
-      "I'm a Freelancer",
-      1500
-    ],
+    "typingText": ["I'm a Frontend Developer", 1500, "I'm a Freelancer", 1500],
     "description": "Motivated and detail-oriented Web Developer with 6 months of experience.",
     "btnText": "Get in touch",
     "btnUrl": "contactus"
@@ -19,7 +14,11 @@
       "iconBgClass": "github",
       "href": "https://github.com/abdulhadii123?tab=repositories"
     },
-    { "icon": "fa-brands:instagram", "iconBgClass": "instagram", "href": "https://www.instagram.com/abdul__hadi___?igsh=MTZ6anN6MGRwZm4wOQ==" },
+    {
+      "icon": "fa-brands:instagram",
+      "iconBgClass": "instagram",
+      "href": "https://www.instagram.com/abdul__hadi___?igsh=MTZ6anN6MGRwZm4wOQ=="
+    },
     {
       "icon": "fa-brands:linkedin-in",
       "iconBgClass": "linkedin",
@@ -149,7 +148,6 @@
           "url": "https://soller-eight.vercel.app/"
         }
       }
-    
     ]
   },
   "service": {
@@ -196,24 +194,24 @@
     "allExperience": [
       {
         "designation": "Front-end Developer",
-        "company": "Woodenclouds",
-        "duration": "JAN 2025 - MARCH 2025",
+        "company": "Calistaa Designs",
+        "duration": "APRIL 2025 - PRESENT",
         "jobType": "Full time",
         "companyTitle": "About Company",
         "companyDescription": " A company providing training and services in software development.• Gained hands-on experience in Frontend Development, working with HTML, CSS, JavScript, React.js, and Tailwind CSS, Node.js to build responsive and interactive web applications. • Developed projects using GitHub for version control, ensuring efficient collaboration and code management. • Gained practical exposure to UI/UX designprinciples, working within design frameworks to create user-friendly interfaces.• Worked in WCFrames for Editing and videography, incorporating multimedia elements to enhance web content and digital experiences. ."
       },
       {
         "designation": "Front-end Developer",
-        "company": "Calistaa Designs",
-        "duration": "APRIL 2025 - PRESENT",
+        "company": "Woodenclouds",
+        "duration": "JAN 2025 - MARCH 2025",
         "jobType": "Full time",
         "companyTitle": "About Company",
         "companyDescription": " A company providing training and services in software development.• Gained hands-on experience in Frontend Development, working with HTML, CSS, JavScript, React.js, and Tailwind CSS, Node.js to build responsive and interactive web applications. • Developed projects using GitHub for version control, ensuring efficient collaboration and code management. • Gained practical exposure to UI/UX designprinciples, working within design frameworks to create user-friendly interfaces.• Worked in WCFrames for Editing and videography, incorporating multimedia elements to enhance web content and digital experiences. ."
       }
     ]
   },
-  "education":{
-        "sectionHeading": {
+  "education": {
+    "sectionHeading": {
       "miniTitle": "Education",
       "title": "My <span>Education</span>"
     },
@@ -236,6 +234,34 @@
       }
     ]
   },
+
+  "certificates": {
+    "sectionHeading": {
+      "miniTitle": "Certificates",
+      "title": "My <span>Certificates</span>"
+    },
+    "allCertificates": [
+      {
+        "title": "Frontend Development",
+        "issuer": "Woodenclouds Academy",
+        "duration": "Sep 2024 – Nov 2024",
+        "type": "Certificate Program",
+        "label": "About Certificate",
+        "description": "has successfully completed a three month internship in the domain of Front-End Development using React JS at Woodenclouds Private Limited, conducted under Woodenclouds Academy, from December 10th, 2024 to February 15th, 2025",
+        "pdfUrl": "/Internship-Certificate.pdf"
+      },
+      {
+        "title": "Frontend Development",
+        "issuer": "Woodenclouds",
+        "duration": "Dec 2024 – Feb 2025",
+        "type": "Certificate Program",
+        "label": "About Certificate",
+        "description": "successfully completed React JS Development Course at Woodenclouds Academy, including a real-time internship of 3 months. He demonstrated strong dedication, technical skills, and active participation in practical projects throughout the program",
+        "pdfUrl": "/React-Certificate.pdf"
+      }
+    ]
+  },
+
   "testimonial": {
     "sectionHeading": {
       "miniTitle": "Testimonial",
