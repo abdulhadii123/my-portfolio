@@ -27,19 +27,38 @@ export default function Projects({ data }) {
     dots: true,
     arrows: false,
     infinite: true,
-    autoplay: false,
+    autoplay: true,
     autoplaySpeed: 4000,
     speed: 1000,
     slidesToShow: 1,
     slidesToScroll: 1,
     initialSlide: 0,
     variableWidth: true,
-  };
+     responsive: [
+    {
+      breakpoint: 768, // tablets & smaller devices
+      settings: {
+        slidesToShow: 1,
+        slidesToScroll: 1,
+        variableWidth: false,
+      },
+    },
+    {
+      breakpoint: 480, // small mobiles
+      settings: {
+        slidesToShow: 1,
+        slidesToScroll: 1,
+        variableWidth: false,
+      },
+    },
+  ],
+};
+
 
   return (
     <>
       <section className="project-section section gray-bg" id="project">
-        <div className="containers">
+        <div className="container">
           <SectionHeading
             miniTitle={sectionHeading.miniTitle}
             title={sectionHeading.title}
